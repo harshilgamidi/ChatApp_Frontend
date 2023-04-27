@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ChatApp_Frontend/static/css/main.0cf2e8df.css",
-    "main.js": "/ChatApp_Frontend/static/js/main.5d61404b.js",
-    "index.html": "/ChatApp_Frontend/index.html",
-    "main.0cf2e8df.css.map": "/ChatApp_Frontend/static/css/main.0cf2e8df.css.map",
-    "main.5d61404b.js.map": "/ChatApp_Frontend/static/js/main.5d61404b.js.map"
+    "main.css": "/VideoChat/static/css/main.0cf2e8df.css",
+    "main.js": "/VideoChat/static/js/main.b6269443.js",
+    "index.html": "/VideoChat/index.html",
+    "main.0cf2e8df.css.map": "/VideoChat/static/css/main.0cf2e8df.css.map",
+    "main.b6269443.js.map": "/VideoChat/static/js/main.b6269443.js.map"
   },
   "entrypoints": [
     "static/css/main.0cf2e8df.css",
-    "static/js/main.5d61404b.js"
+    "static/js/main.b6269443.js"
   ]
 }
